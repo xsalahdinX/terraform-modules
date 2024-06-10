@@ -38,8 +38,8 @@ Each module includes detailed instructions on how to use and customize it for yo
 To use a module, add a module block in your Terraform configuration and specify the source as the path to the module within this repository. For example:
 
 ```hcl
-module "moudle_name" {
-  source = ""github.com/xsalahdinX/terraform-modules//folder-eaxample"
+module "module_name" {
+  source = ""github.com/xsalahdinX/terraform-modules//folder-example"
 }
 ```
 
