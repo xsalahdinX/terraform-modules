@@ -1,4 +1,6 @@
+Here's the updated README with the additional folders and all necessary details, formatted for easy copying:
 
+```markdown
 # 🌟 Terraform Modules
 
 ## 📜 Overview
@@ -41,7 +43,3 @@ To use a module, add a module block in your Terraform configuration and specify 
 module "moudle_name" {
   source = ""github.com/xsalahdinX/terraform-modules//folder-eaxample"
 }
-```
-
-## 🤝 Contributing
-We welcome contributions to improve and expand the modules. Please open an issue or submit a pull request with your changes.
