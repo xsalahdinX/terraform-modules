@@ -1,0 +1,7 @@
+nodegroup_role: 
+- node-group-role
+iam_admin_roles: 
+- eks_access_role
+accountId: "975050171867"
+
+
